@@ -36,4 +36,12 @@ return {
     -- },
     event = "User AstroFile",
   },
+  {
+    "github/copilot.vim",
+    event = "User AstroFile"
+  },
+  {
+    "mg979/vim-visual-multi",
+    event = "User AstroFile"
+  }
 }
